@@ -1,0 +1,13 @@
+# Use LVCompare via the installed executable for diffs
+*.vi diff=lvdiff
+*.vit diff=lvdiff
+*.vim diff=lvdiff
+# Use LVMerge via the installed executable for merging
+*.vi merge=lvmerge
+*.vit merge=lvmerge
+*.vim merge=lvmerge
+# Prevent auto-merging project or class files (this will mess up the files because they're detected as xml files)
+*.lvclass -merge
+*.lvproj -merge
+# Prevent CR-LF conversions for bitfiles
+*.lvbitx -text
