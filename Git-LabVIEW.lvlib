@@ -4,5 +4,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Merge Delegates" Type="Folder">
+		<Item Name="Merge-Delegate.lvclass" Type="LVClass" URL="../Merge Operations/Interface/Merge-Delegate.lvclass"/>
+	</Item>
 	<Item Name="Git Implementation.lvclass" Type="LVClass" URL="../Implementation/Git Implementation.lvclass"/>
 </Library>
