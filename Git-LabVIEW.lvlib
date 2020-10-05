@@ -6,6 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Merge Delegates" Type="Folder">
 		<Item Name="Merge-Delegate.lvclass" Type="LVClass" URL="../Merge Operations/Interface/Merge-Delegate.lvclass"/>
+		<Item Name="No-Conflicts Merge.lvclass" Type="LVClass" URL="../Merge Operations/No-Conflicts Merge/No-Conflicts Merge.lvclass"/>
 	</Item>
 	<Item Name="Git Implementation.lvclass" Type="LVClass" URL="../Implementation/Git Implementation.lvclass"/>
 </Library>
