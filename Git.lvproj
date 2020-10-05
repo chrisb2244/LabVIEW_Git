@@ -14,7 +14,7 @@
 		<Item Name="Testing" Type="Folder">
 			<Item Name="GitTestCase.lvclass" Type="LVClass" URL="../Testing/GitTestCase/GitTestCase.lvclass"/>
 		</Item>
-		<Item Name="Git Implementation.lvclass" Type="LVClass" URL="../Implementation/Git Implementation.lvclass"/>
+		<Item Name="Git-LabVIEW.lvlib" Type="Library" URL="../Git-LabVIEW.lvlib"/>
 		<Item Name="Test Main.vi" Type="VI" URL="../Test Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
