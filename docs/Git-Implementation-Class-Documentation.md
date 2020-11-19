@@ -1,3 +1,7 @@
+---
+title: Git-Implementation Class Documentation
+---
+
 This document was created by the [PetranWay Autodocumentation Utility](https://bitbucket.org/ChrisCilino/labview-auto-documentation/src/master/).
 
 [TOC]
